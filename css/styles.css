@@ -1,3 +1,26 @@
-#head {
+h1 {
     color: rgb(128, 0, 21);
+}
+
+body {
+    background-color: rgb(255, 255, 250);
+}
+
+.container {
+    width: 38%;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+h2 {
+    background-color: burlywood;
+    color: black;
 }
