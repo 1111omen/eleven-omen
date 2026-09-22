@@ -8,6 +8,7 @@ body {
 
 .container {
     width: 38%;
+    min-width: 600px;
     margin: 0 auto;
     padding: 0 1rem;
 }
@@ -24,3 +25,33 @@ h2 {
     background-color: burlywood;
     color: black;
 }
+
+h3 {
+    background-color: bisque;
+}
+
+hr {
+    max-width: 250px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+footer p {
+    margin-top: -10px;
+}
+
+/* ----- a ----- */
+
+a:link, a:visited {
+    color: black;
+}
+
+a:hover {
+    color: rgb(128, 0, 21);
+}
+
+a:active {
+    color: whitesmoke;
+}
+
+/* -----   ----- */
