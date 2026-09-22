@@ -40,6 +40,10 @@ footer p {
     margin-top: -10px;
 }
 
+.author {
+    margin-top: -8px;
+}
+
 /* ----- a ----- */
 
 a:link, a:visited {
