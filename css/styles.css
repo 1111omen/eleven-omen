@@ -2,6 +2,10 @@ h1 {
     color: rgb(128, 0, 21);
 }
 
+.eye {
+    margin-top: 15px;
+}
+
 body {
     background-color: rgb(255, 255, 250);
 }
@@ -9,8 +13,11 @@ body {
 .container {
     width: 38%;
     min-width: 600px;
-    margin: 0 auto;
-    padding: 0 1rem;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: hsl(34, 57%, 90%);
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 header {
@@ -22,12 +29,16 @@ footer {
 }
 
 h2 {
-    background-color: burlywood;
+    background-color: hsl(34, 57%, 70%);
     color: black;
+    border-radius: 5px;
+    padding: 7px;
 }
 
 h3 {
-    background-color: bisque;
+    background-color: hsl(33, 90%, 75%);
+    padding: 5px;
+    border-radius: 3px;
 }
 
 hr {
